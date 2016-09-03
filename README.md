@@ -10,18 +10,33 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [The Autobiography of Benjamin Franklin](https://en.wikipedia.org/wiki/The_Autobiography_of_Benjamin_Franklin)
 
 ## Business
+* [Built to Last: Successful Habits of Visionary Companies - Jim Collins, Jerry I. Porras](https://en.wikipedia.org/wiki/Built_to_Last:_Successful_Habits_of_Visionary_Companies)
 * [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration - Ed Catmull, Amy Wallace](http://www.goodreads.com/book/show/18077903-creativity-inc)
+* [Dynamic Hedging: Managing Vanilla and Exotic Options - Nassim Nicholas Taleb](http://www.goodreads.com/book/show/204689.Dynamic_Hedging)
+* [Everything I Know - Paul Jarvis](http://www.goodreads.com/book/show/19107336-everything-i-know)
+* [Extreme Ownership: How U.S. Navy SEALs Lead and Win - Jocko Willink, Leif Babin](http://www.goodreads.com/book/show/23848190-extreme-ownership)
 * [Founders at Work: Stories of Startups' Early Days - Jessica Livingston](http://www.goodreads.com/book/show/98233.Founders_at_Work)
 * [FYI: For Your Improvement, A Guide for Development and Coaching](https://books.google.gr/books/about/FYI.html)
 * [Getting Things Done - David Allen](https://en.wikipedia.org/wiki/Getting_Things_Done)
 * [Getting to Yes: Negotiating Agreement Without Giving In - Roger Fisher, William L. Ury](https://en.wikipedia.org/wiki/Getting_to_Yes)
 * [Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal - Nick Bilton](http://www.goodreads.com/book/show/18656827-hatching-twitter)
+* [How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life - Scott Adams](http://www.goodreads.com/book/show/17859574-how-to-fail-at-almost-everything-and-still-win-big)
+* [How to Measure Anything: Finding the Value of "Intangibles" in Business - Douglas W. Hubbard](http://www.goodreads.com/book/show/444653.How_to_Measure_Anything)
+* [Made in Japan: Akio Morita and Sony - Akio Morita, Edwin M. Reingold, Mitsuko Shimomura](http://www.goodreads.com/book/show/1008101.Made_in_Japan)
+* [Never Split the Difference: Negotiating As If Your Life Depended On It - Chris Voss, Tahl Raz](http://www.goodreads.com/book/show/26156469-never-split-the-difference)
 * [Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal - Oren Klaff](http://www.goodreads.com/book/show/10321016-pitch-anything)
+* [Slide: ology: The Art and Science of Creating Great Presentations - Nancy Duarte](http://www.goodreads.com/book/show/3427627-slide)
 * [Talent is Overrated: What Really Separates World-Class Performers from Everybody Else](http://www.goodreads.com/book/show/4485966-talent-is-overrated)
+* [Team of Teams: The Power of Small Groups in a Fragmented World - Stanley McChrystal, Chris Fussell](https://www.goodreads.com/book/show/22529127-team-of-teams)
+* [Thanks for the Feedback: The Science and Art of Receiving Feedback Well - Douglas Stone, Sheila Heen](http://www.goodreads.com/book/show/18114120-thanks-for-the-feedback)
 * [The Five Dysfunctions of a Team](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team)
+* [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail - Clayton Christensen.](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)
 * [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution - Walter Isaacson](https://en.wikipedia.org/wiki/The_Innovators:_How_a_Group_of_Inventors,_Hackers,_Geniuses,_and_Geeks_Created_the_Digital_Revolution)
+* [The Intelligent Investor - Benjamin Graham](https://en.wikipedia.org/wiki/The_Intelligent_Investor)
 * [The Lean startup - Eric Ries](https://en.wikipedia.org/wiki/Lean_startup)
 * [The Sticking Point Solution: 9 Ways to Move Your Business from Stagnation to Stunning Growth InTough Economic Times - Jay Abraham](http://www.goodreads.com/book/show/6515635-the-sticking-point-solution)
+* [The Way to Wealth - Benjamin Franklin](https://liberalarts.utexas.edu/coretexts/_files/resources/texts/1758%20Franklin%20Wealth.pdf)
+* [Up the Organization: How to Stop the Corporation from Stifling People and Strangling Profits - Robert C. Townsend, Warren G. Bennis](http://www.goodreads.com/book/show/546936.Up_the_Organization)
 
 ## Design
 * [Designed for Use - Lukas Mathis](http://www.goodreads.com/book/show/11890985-designed-for-use)
@@ -29,16 +44,26 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [The Design of Everyday Things - Donald A. Norman](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things)
 
 ## Economics
-* [The State - Anthony de Jasay](http://www.econlib.org/library/LFBooks/Jasay/jsyStt.html)
+* [A Short History of Financial Euphoria - John Kenneth Galbraith](http://www.goodreads.com/book/show/270746.A_Short_History_of_Financial_Euphoria)
+* [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything - Steven D. Levitt, Stephen J. Dubner](http://www.goodreads.com/book/show/1202.Freakonomics)
 * [Rationality in Economics: Constructivist and Ecological Forms](http://www.goodreads.com/book/show/2716864-rationality-in-economics)
+* [The State - Anthony de Jasay](http://www.econlib.org/library/LFBooks/Jasay/jsyStt.html)
+* [The Undercover Economist - Tim Harford](http://www.goodreads.com/book/show/70420.The_Undercover_Economist)
 
 ## Fiction
 * [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
 
 ## History
+* [Delta Force: The Army's Elite Counterterrorist Unit - Charlie A. Beckwith, Donald Knox](http://www.goodreads.com/book/show/617661.Delta_Force)
+* [Devil Take the Hindmost: a History of Financial Speculation - Edward Chancellor](http://www.goodreads.com/book/show/91360.Devil_Take_the_Hindmost)
+* [Extraordinary Popular Delusions and the Madness of Crowds - Charles Mackay](https://en.wikipedia.org/wiki/Extraordinary_Popular_Delusions_and_the_Madness_of_Crowds)
+* [Guns, Germs, and Steel: The Fates of Human Societies - Jared Diamond](http://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel)
 * [Hackers: Heroes of the Computer Revolution - Steven Levy](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution)
+* [Legionnaire: Five Years in the French Foreign Legion - Simon Murray](http://www.goodreads.com/book/show/651859.Legionnaire)
+* [Strange Defeat - Marc Bloch](https://en.wikipedia.org/wiki/Strange_Defeat)
 * [The Old Regime and the Revolution](https://en.wikipedia.org/wiki/The_Old_Regime_and_the_Revolution)
 * [The Power Broker: Robert Moses and the Fall of New York - Robert A. Caro](https://en.wikipedia.org/wiki/The_Power_Broker)
+* [War and Peace - Leo Tolstoy](http://www.goodreads.com/book/show/656.War_and_Peace)
 
 ## Management
 * [Peopleware: Productive Projects and Teams](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams)
@@ -47,13 +72,20 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 
 ## Other
 * [Common Sense (pamphlet)](https://en.wikipedia.org/wiki/Common_Sense_(pamphlet))
+* [Game Over: From Pick-Up Artist to Social Heartist - John Cooper](http://www.goodreads.com/book/show/28482276-game-over)
+* [Pathologies of Power: Health, Human Rights and the New War on the Poor - Paul Farmer](http://www.goodreads.com/book/show/10232.Pathologies_of_Power)
+* [The Bible](https://en.wikipedia.org/wiki/Bible)
+* [The Complete Yes Minister - Jonathan Lynn, Antony Jay](http://www.goodreads.com/book/show/526170.The_Complete_Yes_Minister)
+* [The Hero with a Thousand Faces - Joseph Campbell](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces)
 
 ## Philosophy
 * [A Treatise of Human Nature - David Hume](https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature)
+* [Atlas Shrugged - Ayn Rand](https://en.wikipedia.org/wiki/Atlas_Shrugged)
 * [Meditations - Marcus Aurelius](https://en.wikipedia.org/wiki/Meditations)
 * [Metaphysical Horror - Leszek Kołakowski](https://books.google.gr/books/about/Metaphysical_Horror.html)
 * [Moral letters to Lucilius - Seneca](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius)
 * [On Liberty - John Stuart Mill](https://en.wikipedia.org/wiki/On_Liberty)
+* [The Book of Mirdad: The Strange Story of a Monastery Which Was Once Called the Ark - Mikhail Naimy, ميخائيل نعيمة](https://www.goodreads.com/book/show/1487022.The_Book_of_Mirdad)
 * [The Fountainhead - Ayn Rand](https://en.wikipedia.org/wiki/The_Fountainhead)
 * [The Law -  Frédéric Bastiat](https://en.wikipedia.org/wiki/The_Law_(book))
 * [The Machinery of Freedom - David D. Friedman](https://en.wikipedia.org/wiki/The_Machinery_of_Freedom)
@@ -66,29 +98,21 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [On Power: The Natural History of Its Growth](https://books.google.gr/books/about/On_Power.html)
 * Sketched With the Quill - Andrzej Bobkowski
 
+## Productivity
+* [Deep Work: Rules for Focused Success in a Distracted World](http://calnewport.com/books/deep-work/)
+
 ## Psychology
 * [Ego Is the Enemy - Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy)
 * [Flow: The Psychology of Optimal Experience - Mihaly Csikszentmihalyi](http://www.goodreads.com/book/show/66354.Flow)
 * [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)
+* [Impro - Keith Johnstone](http://www.goodreads.com/book/show/306940.Impro)
+* [Influence: The Psychology of Persuasion - Robert B. Cialdini](http://www.goodreads.com/book/show/28815.Influence)
 * [Moonwalking with Einstein: The Art and Science of Remembering Everything](https://en.wikipedia.org/wiki/Moonwalking_with_Einstein)
 * [Outliers: The Story of Success - Malcolm Gladwell](https://en.wikipedia.org/wiki/Outliers_(book))
 * [The Power of Habit](https://en.wikipedia.org/wiki/The_Power_of_Habit)
 * [Thus Spoke Zarathustra: A Book for All and None - Friedrich Nietzsche](https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra)
 * [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 * [What Every Body is Saying: An Ex-FBI Agent's Guide to Speed-Reading People - Joe Navarro, Marvin Karlins](http://www.goodreads.com/book/show/1173576.What_Every_Body_is_Saying)
-
-## Productivity
-* [Deep Work: Rules for Focused Success in a Distracted World](http://calnewport.com/books/deep-work/)
-
-## Self-Help
-* [Coders at Work: Reflections on the Craft of Programming - Peter Seibel](http://www.goodreads.com/book/show/6713575-coders-at-work)
-* [8 to Be Great: The 8-Traits That Lead to Great Success - Richard St. John](http://www.goodreads.com/book/show/2283805.8_to_Be_Great)
-* [How to Read a Book - Mortimer Adler](https://en.wikipedia.org/wiki/How_to_Read_a_Book)
-* [The 7 Habits of Highly Effective People - Stephen R. Covey](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People)
-* [The Speed Reading Book - Tony Buzan](http://www.goodreads.com/book/show/791505.The_Speed_Reading_Book)
-
-## Soft Skills
-* [Crucial Conversations: Tools for Talking When Stakes Are High](https://en.wikipedia.org/wiki/Crucial_Conversations:_Tools_for_Talking_When_Stakes_Are_High)
 
 ## Science
 * [An Astronaut's Guide to Life on Earth - Chris Hadfield](http://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth)
@@ -100,5 +124,24 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [The key to the universe - Nigel calder](http://www.tandfonline.com/doi/abs/10.1080/00107517708231488)
 * [The Logic of Scientific Discovery - Karl Popper](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery)
 
+## Self-Help
+* [Coders at Work: Reflections on the Craft of Programming - Peter Seibel](http://www.goodreads.com/book/show/6713575-coders-at-work)
+* [8 to Be Great: The 8-Traits That Lead to Great Success - Richard St. John](http://www.goodreads.com/book/show/2283805.8_to_Be_Great)
+* [How to Read a Book - Mortimer Adler](https://en.wikipedia.org/wiki/How_to_Read_a_Book)
+* [The 7 Habits of Highly Effective People - Stephen R. Covey](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People)
+* [The Checklist Manifesto: How to Get Things Right - Atul Gawande](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto)
+* [The Speed Reading Book - Tony Buzan](http://www.goodreads.com/book/show/791505.The_Speed_Reading_Book)
+
+## Soft Skills
+* [Crucial Conversations: Tools for Talking When Stakes Are High](https://en.wikipedia.org/wiki/Crucial_Conversations:_Tools_for_Talking_When_Stakes_Are_High)
+
+## Sports
+* [Starting Strength: Basic Barbell Training - Mark Rippetoe, Lon Kilgore](http://www.goodreads.com/book/show/2098799.Starting_Strength)
+
 ## Travel
 * [Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel - Rolf Potts](http://www.goodreads.com/book/show/100247.Vagabonding)
+
+## Other lists mentioned
+[Blockshelf](http://www.blockshelf.com/)
+[HackerNews Books](http://hackernewsbooks.com/)
+[Top 30 books ranked by total number of links to Amazon in Hacker News comments](http://ramiro.org/vis/hn-most-linked-books/)
