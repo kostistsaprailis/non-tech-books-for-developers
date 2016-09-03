@@ -142,6 +142,6 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel - Rolf Potts](http://www.goodreads.com/book/show/100247.Vagabonding)
 
 ## Other lists mentioned
-[Blockshelf](http://www.blockshelf.com/)
-[HackerNews Books](http://hackernewsbooks.com/)
-[Top 30 books ranked by total number of links to Amazon in Hacker News comments](http://ramiro.org/vis/hn-most-linked-books/)
+* [Blockshelf](http://www.blockshelf.com/)
+* [HackerNews Books](http://hackernewsbooks.com/)
+* [Top 30 books ranked by total number of links to Amazon in Hacker News comments](http://ramiro.org/vis/hn-most-linked-books/)
