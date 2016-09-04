@@ -23,12 +23,15 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life - Scott Adams](http://www.goodreads.com/book/show/17859574-how-to-fail-at-almost-everything-and-still-win-big)
 * [How to Measure Anything: Finding the Value of "Intangibles" in Business - Douglas W. Hubbard](http://www.goodreads.com/book/show/444653.How_to_Measure_Anything)
 * [Made in Japan: Akio Morita and Sony - Akio Morita, Edwin M. Reingold, Mitsuko Shimomura](http://www.goodreads.com/book/show/1008101.Made_in_Japan)
+* [Made to Stick: Why Some Ideas Survive and Others Die - Chip Heath, Dan Heath](http://www.goodreads.com/book/show/69242.Made_to_Stick)
 * [Never Split the Difference: Negotiating As If Your Life Depended On It - Chris Voss, Tahl Raz](http://www.goodreads.com/book/show/26156469-never-split-the-difference)
 * [Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal - Oren Klaff](http://www.goodreads.com/book/show/10321016-pitch-anything)
+* [Purple Cow: Transform Your Business by Being Remarkable - Seth Godin](http://www.goodreads.com/book/show/641604.Purple_Cow)
 * [Slide: ology: The Art and Science of Creating Great Presentations - Nancy Duarte](http://www.goodreads.com/book/show/3427627-slide)
 * [Talent is Overrated: What Really Separates World-Class Performers from Everybody Else](http://www.goodreads.com/book/show/4485966-talent-is-overrated)
 * [Team of Teams: The Power of Small Groups in a Fragmented World - Stanley McChrystal, Chris Fussell](https://www.goodreads.com/book/show/22529127-team-of-teams)
 * [Thanks for the Feedback: The Science and Art of Receiving Feedback Well - Douglas Stone, Sheila Heen](http://www.goodreads.com/book/show/18114120-thanks-for-the-feedback)
+* [The Effective Executive: The Definitive Guide to Getting the Right Things Done - Peter F. Drucker](http://www.goodreads.com/book/show/48019.The_Effective_Executive)
 * [The Five Dysfunctions of a Team](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team)
 * [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail - Clayton Christensen.](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)
 * [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution - Walter Isaacson](https://en.wikipedia.org/wiki/The_Innovators:_How_a_Group_of_Inventors,_Hackers,_Geniuses,_and_Geeks_Created_the_Digital_Revolution)
@@ -36,7 +39,9 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [The Lean startup - Eric Ries](https://en.wikipedia.org/wiki/Lean_startup)
 * [The Sticking Point Solution: 9 Ways to Move Your Business from Stagnation to Stunning Growth InTough Economic Times - Jay Abraham](http://www.goodreads.com/book/show/6515635-the-sticking-point-solution)
 * [The Way to Wealth - Benjamin Franklin](https://liberalarts.utexas.edu/coretexts/_files/resources/texts/1758%20Franklin%20Wealth.pdf)
+* [Tribes: We Need You to Lead Us - Seth Godin](https://www.goodreads.com/book/show/3828382-tribes)
 * [Up the Organization: How to Stop the Corporation from Stifling People and Strangling Profits - Robert C. Townsend, Warren G. Bennis](http://www.goodreads.com/book/show/546936.Up_the_Organization)
+* [What Got You Here Won't Get You There: How Successful People Become Even More Successful - Marshall Goldsmith , Mark Reiter](http://www.goodreads.com/book/show/84525.What_Got_You_Here_Won_t_Get_You_There)
 
 ## Design
 * [Designed for Use - Lukas Mathis](http://www.goodreads.com/book/show/11890985-designed-for-use)
@@ -52,6 +57,7 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 
 ## Fiction
 * [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+* [The Color of Magic (Discworld #1) - Terry Pratchett](http://www.goodreads.com/book/show/34497.The_Color_of_Magic)
 
 ## History
 * [Delta Force: The Army's Elite Counterterrorist Unit - Charlie A. Beckwith, Donald Knox](http://www.goodreads.com/book/show/617661.Delta_Force)
@@ -91,6 +97,7 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [The Machinery of Freedom - David D. Friedman](https://en.wikipedia.org/wiki/The_Machinery_of_Freedom)
 * [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph - Ryan Holiday](https://en.wikipedia.org/wiki/The_Obstacle_Is_the_Way)
 * [The Revolt of the Masses - José Ortega y Gasset](https://en.wikipedia.org/wiki/The_Revolt_of_the_Masses)
+* [The Tao of Power: Lao Tzu's Classic Guide to Leadership, Influence, and Excellence - R.L. Wing, Lao Tzu](https://www.goodreads.com/book/show/265430.The_Tao_of_Power)
 * [Walden - Henry David Thoreau](http://www.goodreads.com/book/show/16902.Walden)
 
 ## Political Theory/Science
@@ -124,7 +131,11 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [The key to the universe - Nigel calder](http://www.tandfonline.com/doi/abs/10.1080/00107517708231488)
 * [The Logic of Scientific Discovery - Karl Popper](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery)
 
+## Science Fiction
+* [The Hitchhiker's Guide to the Galaxy - Douglas Adams](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy)
+
 ## Self-Help
+* [Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School - John Medina](http://www.goodreads.com/book/show/2251306.Brain_Rules)
 * [Coders at Work: Reflections on the Craft of Programming - Peter Seibel](http://www.goodreads.com/book/show/6713575-coders-at-work)
 * [8 to Be Great: The 8-Traits That Lead to Great Success - Richard St. John](http://www.goodreads.com/book/show/2283805.8_to_Be_Great)
 * [How to Read a Book - Mortimer Adler](https://en.wikipedia.org/wiki/How_to_Read_a_Book)
