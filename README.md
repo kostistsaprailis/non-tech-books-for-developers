@@ -31,8 +31,12 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [Talent is Overrated: What Really Separates World-Class Performers from Everybody Else](http://www.goodreads.com/book/show/4485966-talent-is-overrated)
 * [Team of Teams: The Power of Small Groups in a Fragmented World - Stanley McChrystal, Chris Fussell](https://www.goodreads.com/book/show/22529127-team-of-teams)
 * [Thanks for the Feedback: The Science and Art of Receiving Feedback Well - Douglas Stone, Sheila Heen](http://www.goodreads.com/book/show/18114120-thanks-for-the-feedback)
+* [The 4-Hour Workweek - Timothy Ferriss](http://www.goodreads.com/book/show/368593.The_4_Hour_Workweek)
+* [The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk - Al Ries, Jack Trout](http://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing)
+* [The Daily Entrepreneur: 33 Success Habits for Small Business Owners, Freelancers and Aspiring 9-to-5 Escape Artists - S.J. Scott, Rebecca Livermore](http://www.goodreads.com/book/show/23462396-the-daily-entrepreneur)
 * [The Effective Executive: The Definitive Guide to Getting the Right Things Done - Peter F. Drucker](http://www.goodreads.com/book/show/48019.The_Effective_Executive)
 * [The Five Dysfunctions of a Team](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team)
+* [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers - Ben Horowitz](http://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things)
 * [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail - Clayton Christensen.](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)
 * [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution - Walter Isaacson](https://en.wikipedia.org/wiki/The_Innovators:_How_a_Group_of_Inventors,_Hackers,_Geniuses,_and_Geeks_Created_the_Digital_Revolution)
 * [The Intelligent Investor - Benjamin Graham](https://en.wikipedia.org/wiki/The_Intelligent_Investor)
@@ -42,6 +46,7 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [Tribes: We Need You to Lead Us - Seth Godin](https://www.goodreads.com/book/show/3828382-tribes)
 * [Up the Organization: How to Stop the Corporation from Stifling People and Strangling Profits - Robert C. Townsend, Warren G. Bennis](http://www.goodreads.com/book/show/546936.Up_the_Organization)
 * [What Got You Here Won't Get You There: How Successful People Become Even More Successful - Marshall Goldsmith , Mark Reiter](http://www.goodreads.com/book/show/84525.What_Got_You_Here_Won_t_Get_You_There)
+* [Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel, Blake Masters](http://www.goodreads.com/book/show/18050143-zero-to-one)
 
 ## Design
 * [Designed for Use - Lukas Mathis](http://www.goodreads.com/book/show/11890985-designed-for-use)
