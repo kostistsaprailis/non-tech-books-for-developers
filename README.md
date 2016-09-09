@@ -27,6 +27,7 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [Never Split the Difference: Negotiating As If Your Life Depended On It - Chris Voss, Tahl Raz](http://www.goodreads.com/book/show/26156469-never-split-the-difference)
 * [Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal - Oren Klaff](http://www.goodreads.com/book/show/10321016-pitch-anything)
 * [Purple Cow: Transform Your Business by Being Remarkable - Seth Godin](http://www.goodreads.com/book/show/641604.Purple_Cow)
+* [Rework - Jason Fried, David Heinemeier Hansson](http://www.goodreads.com/book/show/6732019-rework)
 * [Slide: ology: The Art and Science of Creating Great Presentations - Nancy Duarte](http://www.goodreads.com/book/show/3427627-slide)
 * [Talent is Overrated: What Really Separates World-Class Performers from Everybody Else](http://www.goodreads.com/book/show/4485966-talent-is-overrated)
 * [Team of Teams: The Power of Small Groups in a Fragmented World - Stanley McChrystal, Chris Fussell](https://www.goodreads.com/book/show/22529127-team-of-teams)
