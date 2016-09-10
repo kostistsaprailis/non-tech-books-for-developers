@@ -5,9 +5,9 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 
 ## Autobiographies - Biographies
 * [Elon Musk: Inventing the Future - Ashlee Vance](http://www.goodreads.com/book/show/22543496-elon-musk)
+* [iWoz: From Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing by Steve Wozniak.](http://en.wikipedia.org/wiki/IWoz)
 * [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture - David Kushner](https://en.wikipedia.org/wiki/Masters_of_Doom)
 * [Steve Jobs - Walter Isaacson](https://en.wikipedia.org/wiki/Steve_Jobs_(book))
-* [iWoz: From Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing by Steve Wozniak.](http://en.wikipedia.org/wiki/IWoz)
 * [The Autobiography of Benjamin Franklin](https://en.wikipedia.org/wiki/The_Autobiography_of_Benjamin_Franklin)
 
 ## Business
@@ -63,10 +63,10 @@ This book list started as a question on [Hacker News](https://news.ycombinator.c
 * [The Undercover Economist - Tim Harford](http://www.goodreads.com/book/show/70420.The_Undercover_Economist)
 
 ## Fiction
+* [Harry Potter and the Methods of Rationality](http://hpmor.com)
 * [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
 * [The Color of Magic (Discworld #1) - Terry Pratchett](http://www.goodreads.com/book/show/34497.The_Color_of_Magic)
 * [The Martian by Andy Weir](http://en.wikipedia.org/wiki/The_Martian_(Weir_novel))
-* [Harry Potter and the Methods of Rationality](http://hpmor.com)
 
 ## History
 * [Delta Force: The Army's Elite Counterterrorist Unit - Charlie A. Beckwith, Donald Knox](http://www.goodreads.com/book/show/617661.Delta_Force)
